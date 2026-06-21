@@ -1,0 +1,18 @@
+# Large raw dataset (1.28 GB) — not tracked
+spy_2020_2022.csv
+
+# Generated artifacts
+outputs/
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
