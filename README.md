@@ -1,4 +1,4 @@
-# Implied Volatility Prediction (leakage-free rebuild)
+# Implied Volatility Prediction SPY2021-2022
 
 Predict SPY call-option **implied volatility (IV)** from inputs that are actually
 knowable *before* you observe IV, then price options with Black-Scholes using the
